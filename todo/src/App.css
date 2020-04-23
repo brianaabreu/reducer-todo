@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App h2 {
+  color: lightblue;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 100;
+  font-size: 35px;
+}
+
+.App h2:hover {
+  text-align: center;
+  color: rgb(34, 158, 199);
+}
